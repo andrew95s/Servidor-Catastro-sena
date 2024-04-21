@@ -16,3 +16,6 @@ tzdata
 Pillow
 pandas
 setuptools>=58.0.0
+dj-database-url
+whitenoise[brotli]
+gunicorn
