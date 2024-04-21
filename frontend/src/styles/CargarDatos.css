@@ -1,0 +1,31 @@
+/* Estilos para el contenedor del componente */
+.cargar-datos-container {
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* Estilos para el título */
+  .cargar-datos-container h2 {
+    margin-bottom: 20px;
+  }
+  
+  /* Estilos para el botón de carga */
+  .cargar-datos-container button {
+    display: block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Estilos para el botón de carga al pasar el ratón por encima */
+  .cargar-datos-container button:hover {
+    background-color: #0056b3;
+  }
+  
